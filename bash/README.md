@@ -16,15 +16,15 @@
 
 -------
 ## **_Bash Command Line Fundamentals_**
-### [Handy shortcut keys and special characters](keysetc.md)
-### [Managing directories and files](dirfiles.md)
-### [Searching the directory system](find.md)
-### [Working with text files](textfiles.md)
-### [Using environment variables](envars.md)
-### [Write your own Bash scripts](scripting.md)
+### [Handy shortcut keys and special characters](./keysetc.md)
+### [Managing directories and files](./dirfiles.md)
+### [Searching the directory system](./find.md)
+### [Working with text files](./textfiles.md)
+### [Using environment variables](./envars.md)
+### [Write your own Bash scripts](./scripting.md)
 &nbsp;
 
 ----------
 ## **_Also of interest_**
-###  [More Bash documentation online](bashdocs.md)
-###  [Bash for Windows](bashwin.md)
+###  [More Bash documentation online](./bashdocs.md)
+###  [Bash for Windows](./bashwin.md)

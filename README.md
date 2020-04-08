@@ -9,7 +9,7 @@
 
 -------
 
-### Efficient use and development of software for Atmospheric Science requires a basic knowledge of [GNU Bash commands and scripting tools](/bash/readme.md)  for developing project code and controlling software execution.
+### Efficient use and development of software for Atmospheric Science requires a basic knowledge of [GNU Bash commands and scripting tools](./bash/readme.md)  for developing project code and controlling software execution.
 
 &nbsp;
 
